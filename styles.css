@@ -4,3 +4,7 @@ h2 {
 h1 {
   text-align: center;
 }
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
