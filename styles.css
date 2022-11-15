@@ -8,12 +8,15 @@ body {
   margin-left: 10%;
   margin-right: 10%;
 }
-
 .parrafo{
  display: inline;
 }
 .img {
-  width: 25em;
+  width: 15em;
   height: 12em;
   float:left;
+}
+.div {
+  margin-right: 10%;
+  margin-left: 10%;
 }
